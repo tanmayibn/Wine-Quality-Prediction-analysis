@@ -1,9 +1,6 @@
 # "Wine Quality Prediction & Data Analysis"
 
-Dataset downloaded from
-### https://github.com/EshitaNandy/Wine-Dataset-Prediction
-![Screenshot (138)](https://user-images.githubusercontent.com/40588715/87897428-f0961a80-ca68-11ea-8b62-bc0bfce09294.png)
-
+Dataset
 Few Snippets about the Data Visualization:
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/40588715/87897772-00fac500-ca6a-11ea-8aef-9fb0181d0838.png)
