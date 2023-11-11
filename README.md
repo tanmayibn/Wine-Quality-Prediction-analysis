@@ -1,6 +1,9 @@
 # "Wine Quality Prediction & Data Analysis"
 
+This project involves the prediction of wine quality through data analysis. The goal is to employ advanced analytical techniques to assess various factors influencing the quality of wine. By leveraging predictive modeling, the project aims to provide insights into the key determinants of wine quality based on the available data
 Dataset
+
+
 Few Snippets about the Data Visualization:
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/40588715/87897772-00fac500-ca6a-11ea-8aef-9fb0181d0838.png)
